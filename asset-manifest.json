@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Holiday/static/css/main.7908229f.css",
+    "main.js": "/React-Holiday/static/js/main.ae237038.js",
+    "static/media/Austria-ski.jpg": "/React-Holiday/static/media/Austria-ski.2e5c293177f2661002f2.jpg",
+    "static/media/France-cycling.jpg": "/React-Holiday/static/media/France-cycling.286cdae2f9107159a5a8.jpg",
+    "static/media/Germany-golf.jpg": "/React-Holiday/static/media/Germany-golf.df51738cb6426406fa05.jpg",
+    "static/media/Cowes-sailing.jpg": "/React-Holiday/static/media/Cowes-sailing.5c70cf6ce86164d4e157.jpg",
+    "static/media/Alaska-snowshoeing.jpg": "/React-Holiday/static/media/Alaska-snowshoeing.3c0dcfb9a62503ca3830.jpg",
+    "static/media/Logo.png": "/React-Holiday/static/media/Logo.5e96f9525a10e538c980.png",
+    "index.html": "/React-Holiday/index.html",
+    "main.7908229f.css.map": "/React-Holiday/static/css/main.7908229f.css.map",
+    "main.ae237038.js.map": "/React-Holiday/static/js/main.ae237038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7908229f.css",
+    "static/js/main.ae237038.js"
+  ]
+}
